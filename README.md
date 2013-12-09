@@ -1,5 +1,9 @@
 # GWT Portlet Bridge
 
+## Please Note
+
+I have not been working in a portal environment for quite some time and am not maintaining this project.  If you run into any issues you will have to sort them out yourself or make use of one of the forked versions of this project. 
+
 ## Introduction
 
 GWT Portlet Bridge is a bridge for using GWT in JSR-286 portlets.  It was initially developed in a WSRP based environment using IBM Websphere and IBM Portal Server.
